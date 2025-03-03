@@ -1,0 +1,10 @@
+{
+    "board_width": 5,
+    "board_height": 5,
+    "cell_size": 50,
+    "player_units": {
+        "white": [[0, 1], [0, 4]],
+        "black": [[4, 1], [4, 4]]
+    },
+    "starting_player": "white"
+}
